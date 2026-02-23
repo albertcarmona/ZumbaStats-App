@@ -1,0 +1,15 @@
+{
+    "number_of_players": 2,
+    "player_stats": {
+        "canon": {
+            "play_time": 100,
+            "kills": 100,
+            "deaths": 100
+        },
+        "canon_2": {
+            "play_time": 150,
+            "kills": 120,
+            "deaths": 80
+        }
+    }
+}
