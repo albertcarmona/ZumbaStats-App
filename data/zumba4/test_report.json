@@ -10,6 +10,11 @@
             "play_time": 150,
             "kills": 120,
             "deaths": 80
+        },
+        "canon_3": {
+            "play_time": 200,
+            "kills": 140,
+            "deaths": 60
         }
     }
 }
